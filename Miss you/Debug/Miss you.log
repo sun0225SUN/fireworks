@@ -1,0 +1,5 @@
+﻿c:\c++\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Miss you.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+c:\users\administrator\source\repos\miss you\miss you\main.cpp(56): warning C4101: “tn”: 未引用的局部变量
+c:\users\administrator\source\repos\miss you\miss you\main.cpp(57): warning C4101: “TP”: 未引用的局部变量
+  Miss you.vcxproj -> C:\Users\Administrator\source\repos\Miss you\Debug\Missyou.exe
